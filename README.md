@@ -76,3 +76,22 @@ If you have ideas or improvements, feel free to fork the repo and open a pull re
 🌐 [LinkedIn](https://www.linkedin.com/in/najy-rami-b7b9b031a) | [GitHub](https://github.com/NajiRami)  
 
 ---
+
+## ⚙ Installation  
+
+Follow these simple steps to set up the project locally 👇  
+
+```bash
+git lfs install #⬅️If it's not installed in your machine.
+
+# 1️⃣ Clone the repository
+git clone https://github.com/your-username/Sentiment-Classifier.git
+cd Sentiment-Classifier
+
+# 2️⃣ Create a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # (on macOS/Linux)
+venv\Scripts\activate     # (on Windows)
+
+# 3️⃣ Install dependencies
+pip install -r requirements.txt
