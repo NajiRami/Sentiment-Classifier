@@ -73,6 +73,6 @@ If you have ideas or improvements, feel free to fork the repo and open a pull re
 ## 📬 Contact  
 
 📧 *Naji Rami*  
-🌐 [LinkedIn](www.linkedin.com/in/najy-rami-b7b9b031a) | [GitHub](https://github.com/NajiRami)  
+🌐 [LinkedIn](https://www.linkedin.com/in/najy-rami-b7b9b031a) | [GitHub](https://github.com/NajiRami)  
 
 ---
