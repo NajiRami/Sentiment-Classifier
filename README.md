@@ -85,7 +85,7 @@ Follow these simple steps to set up the project locally 👇
 git lfs install #⬅️If it's not installed in your machine.
 
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/Sentiment-Classifier.git
+git clone https://github.com/NajiRami/Sentiment-Classifier.git
 cd Sentiment-Classifier
 
 # 2️⃣ Create a virtual environment (recommended)
